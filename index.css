@@ -1,3 +1,11 @@
 .small-shadow {
     border-radius: 5px;
+    page-break-inside: avoid;
+}
+
+@media print {
+    .no-print {
+        display: none !important;
+    }
+
 }
