@@ -136,6 +136,32 @@
                         </div>
 
                     </div>
+
+                    <div class="media m-2">
+                        <div class="media-left">
+                                <img src="../ConnectionChanged.png">
+                        </div>
+                        <div class="media-content">
+                            <div class="content">
+                                <h2>On Connection changed node</h2>
+                                <br>
+                                <p>
+                                    This node triggers when the connection to the chat changes. This can be due to a reconnection or a new connection.
+                                    A connection check is being performed every 5 seconds. If a ping fails to the twitch servers, the node is triggered with the false value.
+                                    When you first connect, it will trigger to true if the connection is successful and false otherwise.
+                                </p>
+                                <ul>
+                                    <li>
+                                        Connection status : This is the connection status of the connection to the chat. If it's true, then the chat is connected. If it's false, then the chat is disconnected.
+                                    </li>
+                                </ul> 
+                            </div>
+                        </div>
+                        <div class="media-right">
+                            <strong></strong>
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </div>
