@@ -2,10 +2,31 @@
     border-radius: 5px;
     page-break-inside: avoid;
 }
+:root{
+    --text-color: #fff;
+    --background-color: #1c1c1c;
+}
+body {
+    background: rgb(7, 11, 26);
+    background: linear-gradient(172deg, rgba(7, 11, 26,1) 65%, rgba(79,41,0,1) 97%);
+    color: var(--text-color);
+}
+
+.link {
+    color: var(--text-color);
+}
+
+.profile-image {
+    width: 100px !important;
+}
 
 @media print {
     .no-print {
         display: none !important;
     }
 
+}
+
+.media {
+    background: #2c2a2a;
 }
