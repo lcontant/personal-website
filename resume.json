@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Louis Contant",
+    "location": {
+      "Address": "Montreal",
+      "City": "Montreal",
+      "countryCode": "CA",
+      "region": "Quebec"
+    },
+    "email": "louis@louiscontant.com",
+    "phone": "514 549-9771",
+    "label": "Software developer"
+  },
+  "work": [
+    {
+      "name": "Radio-Canada",
+      "position": "Software developer",
+      "startDate": "2020-12-01",
+      "summary": "Development of new features and bug fixing on many different projects in C# .NET and Angular-CLI(2+). Development of software prototypes for different broadcasts. Development of RESTful API.",
+      "highlights": [
+        "Development of new features and bug fixing on many different projects in C# .NET and Angular-CLI(2+)",
+        "Development of software prototypes for different broadcasts",
+        "Development of RESTful API"
+      ]
+    },
+    {
+      "name": "Bonlook",
+      "position": "Software developer",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "summary": "Website maintenance PHP Laravel. Top to bottom automatic deployment system in AWS with Terraform and Node.js. REST API development in Python. Automation of the staging deployment process with terraform.",
+      "highlights": [
+        "Website maintenance PHP Laravel",
+        "Top to bottom automatic deployment system in AWS with Terraform and Node.js",
+        "REST API development in Python",
+        "Automation of the staging deployment process with terraform"
+      ]
+    },
+    {
+      "name": "Radio-Canada (CBC)",
+      "position": "Software developer",
+      "startDate": "2017-01-01",
+      "endDate": "2017-04-01",
+      "summary": "Development of new features and bug fixing on multiple different projects in C# .NET and Angular-CLI(2+). Development of software prototypes for different broadcasts. Development of RESTful API in C#.",
+      "highlights": [
+        "Development of new features and bug fixing on multiple different projects in C# .NET and Angular-CLI(2+)",
+        "Development of software prototypes for different broadcasts",
+        "Development of RESTful API in C#"
+      ]
+    },
+    {
+      "name": "EXO",
+      "position": "Software developer",
+      "startDate": "2016-02-01",
+      "endDate": "2016-08-01",
+      "summary": "Development of new features and bug fixing on client facing website in C# .NET and ASP MVC .NET. Direct internal client communication. Writing of processes for the transition from AMT to EXO. QA of billing system updates before deployment.",
+      "highlights": [
+        "Development of new features and bug fixing on client facing website in C# .NET and ASP MVC .NET",
+        "Direct internal client communication",
+        "Writing of processes for the transition from AMT to EXO",
+        "QA of billing system updates before deployment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ÉTS (École de technologie supérieure)",
+      "area": "Software engineering",
+      "studyType": "Bachelor degree",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Collège Bois-de-Boulogne",
+      "area": "Technique informatique : profil de gestion",
+      "studyType": "DEC",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Collège Mont-Saint-Louis",
+      "area": "High school diploma",
+      "endDate": "2013"
+    }
+  ],
+  "projects": [
+    {
+      "name": "doormonster.tv",
+      "description": "Full development of doormonster.tv",
+      "highlights": [
+        "Developing a full subscription platform with Java Spring boot and Angular 2+",
+        "Deployment system with Docker Compose",
+        "Modernize infrastructure by moving it to the cloud in AWS and Digital Ocean"
+      ],
+      "keywords": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
+      "url": "https://github.com/lcontant/doormonster",
+      "startDate": "2018-07",
+      "endDate": "2018-07"
+    },
+    {
+      "name": "Twitch Integrator",
+      "description": "plugin Twitch Integrator",
+      "highlights": [
+        "Developing a plugin that facilitates the integration of twitch chat interactions through easy to use event nodes made in C++"
+      ],
+      "keywords": ["c++", "unreal engine"],
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
+      "startDate": "2017-08"
+    }
+  ]
+}
