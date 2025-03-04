@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Louis Contant",
+    "location": {
+      "address": "Montreal",
+      "city": "Montreal",
+      "countryCode": "CA",
+      "region": "Quebec"
+    },
+    "summary": "Hi! I'm Louis, a software developer that really likes hard problems to solve. I'm also good at communicating with technical and non technical people which I think is a huge asset in this field. With 5 years of experience on a variety of projects, I'm hoping to be a great addition to your team!",
+    "email": "louis@louiscontant.com",
+    "phone": "514 549-9771",
+    "label": "Software developer"
+  },
+  "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "louis-contant",
+      "url": "https://www.linkedin.com/in/louis-contant-5698a9a7/"
+    },
+    {
+      "network": "GitHub",
+      "username": "lcontant",
+      "url": "https://github.com/lcontant"
+    }
+  ],
+  "work": [
+    {
+      "name": "Radio-Canada",
+      "position": "Software developer",
+      "startDate": "2020-12-01",
+      "summary": "Rework and creation of major applications",
+      "highlights": [
+        "Lead a major rework of a WinForms application for onair live closed captioning",
+        "Recognized as the go-to problem solver on difficult issues",
+        "Developed and deployed many applications from scratch in C# .NET ",
+        "Tech stack: Winform, C#, Angular, .NET 8 ,dotnet core, python, Oracle PLSQL, HTML,Javascript, Typescript"
+      ]
+    },
+    {
+      "name": "Bonlook",
+      "position": "Software developer (internship)",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "highlights": [
+        "Handled technical discussions with Sezzle to resolve issues with the integration of their payment and widget",
+        "Created a top to bottom automatic deployment system in AWS with Terraform and Node.js link to our bitbucket repo",
+        "Maintained python backend",
+        "Tech stack: PHP, Angular, Javascript, Typescript, python, docker, terraform, serverless, aws, aws lambda"
+      ]
+    },
+    {
+      "name": "Radio-Canada (CBC)",
+      "position": "Software developer (internship)",
+      "startDate": "2017-01-01",
+      "endDate": "2017-04-01",
+      "summary": "Created a new application to interact securely with unsecured PTZ cameras and refactored major application for election coverage",
+      "highlights": [
+        "Created a new application to interact securely with unsecured PTZ cameras",
+        "Refactored major application for election coverage",
+        "Developed full stack applications in Angular and C# .NET",
+        "Tech stack: Angular, Javascript, Typescript, C#, .NET Framework , dotnet core, python, Oracle PLSQL, HTML"
+      ]
+    },
+    {
+      "name": "EXO",
+      "position": "Software developer",
+      "startDate": "2016-02-01",
+      "endDate": "2016-08-01",
+      "summary": "Took the lead on a major billing application and handled communication with non technical stakeholders",
+      "highlights": [
+        "Developed new features and fixed bugs on client facing website in C# .NET and ASP MVC .NET",
+        "Direct internal client communication",
+        "Drafting of comprehensive documentation and processes for the transition from AMT to EXO",
+        "Main developer on the automatic billing system for train cards",
+        "Tech stack: C# .NET, ASP MVC .NET, SQL Server, HTML, CSS, Javascript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ÉTS (École de technologie supérieure)",
+      "area": "Software engineering",
+      "studyType": "Bachelor degree",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Collège Bois-de-Boulogne",
+      "area": "Technique informatique : profil de gestion",
+      "studyType": "DEC",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Collège Mont-Saint-Louis",
+      "area": "High school",
+      "studyType": "Diploma",
+      "endDate": "2013"
+    }
+  ],
+  "projects": [
+    {
+      "name": "doormonster.tv",
+      "description": "Full development of doormonster.tv",
+      "highlights": [
+        "Developing a full subscription platform with Java Spring boot and Angular 2+",
+        "Deployment system with Docker Compose"
+      ],
+      "keywords": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
+      "url": "https://github.com/lcontant/doormonster",
+      "startDate": "2018-07",
+      "endDate": "2018-07"
+    },
+    {
+      "name": "Twitch Integrator",
+      "description": "plugin Twitch Integrator",
+      "highlights": [
+        "Developing a plugin that facilitates the integration of twitch chat interactions through easy to use event nodes made in C++"
+      ],
+      "keywords": ["c++", "unreal engine"],
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
+      "startDate": "2017-08"
+    }
+  ]
+}

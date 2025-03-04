@@ -1,0 +1,107 @@
+{
+  "info": {
+    "name": "Louis Contant",
+    "address": "Montréal, (Québec)",
+    "email": "louis@louiscontant.com",
+    "phone": "514 549-9771"
+  },
+  "portfolio": [
+    {
+      "name": "doormonster.tv",
+      "description": "Full development of doormonster.tv",
+      "link": "https://github.com/lcontant/doormonster",
+      "duration": "Since July 2018 (Now retired due to lack of funds)",
+      "tasks": [
+        "Developing a full subscription platform with Java Spring boot and Angular 2+",
+        "Deployment system with Docker Compose",
+        "Modernize infrastructure by moving it to the cloud in AWS and Digital Ocean"
+      ],
+      "techstack": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
+      "skills": ["FullStack", "Backend", "frontend"],
+      "logo": "doormonster_logo.png"
+    },
+    {
+      "name": "Twitch Integrator",
+      "description": "plugin Twitch Integrator",
+      "link": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
+      "duration": "Since August 2017 to Now",
+      "tasks": [
+        "Developing a plugin that facilitates the integration of twitch chat interactions through easy to use event nodes made in C++"
+      ],
+      "techstack": ["c++", "unreal engine"],
+      "logo": "TwitchIntegrator.png"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Radio-Canada",
+      "role": "Software developer",
+      "duration": "December 2020 - Now",
+      "tasks": [
+        "Development of new features and bug fixing on many different projects in C# .NET and Angular-CLI(2+)",
+        "Development of software prototypes for different broadcasts",
+        "Development of RESTful API"
+      ],
+      "techstack": ["Angular", "Javascript", "Typescript", "C#", ".NET", "dotnet core", "python", "Oracle PLSQL", "HTML"],
+      "logo": "radio-canada.webp"
+    },
+    {
+      "company": "Bonlook",
+      "role": "Software developer",
+      "duration": "August 2019 - December",
+      "tasks": [
+        "Website maintenance PHP Laravel",
+        "Top to bottom automatic deployment system in AWS with Terraform and Node.js",
+        "REST API development in Python",
+        "Automation of the staging deployment process with terraform"
+      ],
+      "techstack": ["PHP", "Angular", "Javascript", "Typescript", "python", "docker", "terraform", "serverless", "aws", "aws lambda"],
+      "logo": "bonlook.png"
+    },
+    {
+      "company": "Radio-Canada (CBC)",
+      "role": "Software developer",
+      "duration": "January 2017 - April 2017, January 2018 - September 2018",
+      "tasks": [
+        "Development of new features and bug fixing on multiple different projects in C# .NET and Angular-CLI(2+)",
+        "Development of software prototypes for different broadcasts",
+        "Development of RESTful API in C#"
+      ],
+      "techstack": ["Angular", "Javascript", "Typescript", "C#", ".NET", "dotnet core", "python"],
+      "logo": "radio-canada.webp"
+    },
+    {
+      "company": "EXO",
+      "role": "Software developer",
+      "duration": "February 2016 – August 2016",
+      "tasks": [
+        "Development of new features and bug fixing on client facing website in C# .NET and ASP MVC .NET",
+        "Direct internal client communication",
+        "Writing of processes for the transition from AMT to EXO",
+        "QA of billing system updates before deployment"
+      ],
+      "techstack": ["Javascript", "C#", ".NET"],
+      "logo": "exo.png"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ÉTS (École de technologie supérieure)",
+      "degree": "Bachelor degree in software engineering",
+      "year": 2020,
+      "logo": "ETS.png"
+    },
+    {
+      "institution": "Collège Bois-de-Boulogne",
+      "degree": "(DEC) technique informatique : profil de gestion",
+      "year": 2016,
+      "logo": "BdeB.jpg"
+    },
+    {
+      "institution": "Collège Mont-Saint-Louis",
+      "degree": "High school diploma",
+      "year": 2013,
+      "logo": "msl.png"
+    }
+  ]
+}

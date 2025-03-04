@@ -1,0 +1,107 @@
+{
+  "info": {
+    "name": "Louis Contant",
+    "address": "Montréal, (Québec)",
+    "email": "louis@louiscontant.com",
+    "phone": "514 549-9771"
+  },
+  "portfolio": [
+    {
+      "name": "doormonster.tv",
+      "description": "Développement complet de doormonster.tv",
+      "link": "https://github.com/lcontant/doormonster",
+      "duration": "Depuis juillet 2018 (Maintenant retiré en raison du manque de fonds)",
+      "tasks": [
+        "Développement d'une plateforme d'abonnement complète avec Java Spring boot et Angular 2+",
+        "Système de déploiement avec Docker Compose",
+        "Modernisation de l'infrastructure en la déplaçant vers le cloud dans AWS et Digital Ocean"
+      ],
+      "techstack": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
+      "skills": ["FullStack", "Backend", "frontend"],
+      "logo": "doormonster_logo.png"
+    },
+    {
+      "name": "Twitch Integrator",
+      "description": "plugin Twitch Integrator",
+      "link": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
+      "duration": "Depuis août 2017 à maintenant",
+      "tasks": [
+        "Développement d'un plugin qui facilite l'intégration des interactions de chat Twitch via des nœuds d'événements faciles à utiliser en C++"
+      ],
+      "techstack": ["c++", "unreal engine"],
+      "logo": "TwitchIntegrator.png"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Radio-Canada",
+      "role": "Développeur logiciel",
+      "duration": "Décembre 2020 - Maintenant",
+      "tasks": [
+        "Développement de nouvelles fonctionnalités et correction de bogues sur de nombreux projets en C# .NET et Angular-CLI(2+)",
+        "Développement de prototypes de logiciels pour différentes diffusions",
+        "Développement d'API RESTful"
+      ],
+      "techstack": ["Angular", "Javascript", "Typescript", "C#", ".NET", "dotnet core", "python", "Oracle PLSQL", "HTML"],
+      "logo": "radio-canada.webp"
+    },
+    {
+      "company": "Bonlook",
+      "role": "Développeur logiciel",
+      "duration": "Août 2019 - Décembre 2019",
+      "tasks": [
+        "Maintenance du site Web PHP Laravel",
+        "Système de déploiement automatique de haut en bas dans AWS avec Terraform et Node.js",
+        "Développement d'API REST en Python",
+        "Automatisation du processus de déploiement de staging avec terraform"
+      ],
+      "techstack": ["PHP", "Angular", "Javascript", "Typescript", "python", "docker", "terraform", "serverless", "aws", "aws lambda"],
+      "logo": "bonlook.png"
+    },
+    {
+      "company": "Radio-Canada (CBC)",
+      "role": "Développeur logiciel",
+      "duration": "Janvier 2017 - Avril 2017, Janvier 2018 - Septembre 2018",
+      "tasks": [
+        "Développement de nouvelles fonctionnalités et correction de bogues sur plusieurs projets en C# .NET et Angular-CLI(2+)",
+        "Développement de prototypes de logiciels pour différentes diffusions",
+        "Développement d'API RESTful en C#"
+      ],
+      "techstack": ["Angular", "Javascript", "Typescript", "C#", ".NET", "dotnet core", "python"],
+      "logo": "radio-canada.webp"
+    },
+    {
+      "company": "EXO",
+      "role": "Développeur logiciel",
+      "duration": "Février 2016 – Août 2016",
+      "tasks": [
+        "Développement de nouvelles fonctionnalités et correction de bogues sur le site Web client en C# .NET et ASP MVC .NET",
+        "Communication directe avec les clients internes",
+        "Rédaction de processus pour la transition de l'AMT à EXO",
+        "Assurance qualité des mises à jour du système de facturation avant le déploiement"
+      ],
+      "techstack": ["Javascript", "C#", ".NET"],
+      "logo": "exo.png"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ÉTS (École de technologie supérieure)",
+      "degree": "Baccalauréat en génie logiciel",
+      "year": 2020,
+      "logo": "ETS.png"
+    },
+    {
+      "institution": "Collège Bois-de-Boulogne",
+      "degree": "(DEC) technique informatique : profil de gestion",
+      "year": 2016,
+      "logo": "BdeB.jpg"
+    },
+    {
+      "institution": "Collège Mont-Saint-Louis",
+      "degree": "Diplôme d'études secondaires",
+      "year": 2013,
+      "logo": "msl.png"
+    }
+  ]
+}
