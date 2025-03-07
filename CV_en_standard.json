@@ -27,13 +27,13 @@
   "work": [
     {
       "name": "Radio-Canada",
-      "position": "Software developer",
+      "position": "Senior software developer",
       "startDate": "2020-12-01",
       "summary": "Rework and creation of major applications",
       "highlights": [
         "Lead a major rework of a WinForms application for onair live closed captioning",
         "Recognized as the go-to problem solver on difficult issues",
-        "Developed and deployed many applications from scratch in C# .NET ",
+        "Developed and deployed many applications from scratch in C# .NET (backend) and Angular(frontend) ",
         "Tech stack: Winform, C#, Angular, .NET 8 ,dotnet core, python, Oracle PLSQL, HTML,Javascript, Typescript"
       ]
     },
