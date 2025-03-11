@@ -34,6 +34,7 @@
         "Lead a major rework of a WinForms application for onair live closed captioning",
         "Recognized as the go-to problem solver on difficult issues",
         "Developed and deployed many applications from scratch in C# .NET (backend) and Angular(frontend) ",
+        "Responsible for billing system for broadcast rights distribution",
         "Tech stack: Winform, C#, Angular, .NET 8 ,dotnet core, python, Oracle PLSQL, HTML,Javascript, Typescript"
       ]
     },
@@ -44,9 +45,9 @@
       "endDate": "2019-12-01",
       "highlights": [
         "Handled technical discussions with Sezzle to resolve issues with the integration of their payment and widget",
-        "Created a top to bottom automatic deployment system in AWS with Terraform and Node.js link to our bitbucket repo",
+        "Created a top to bottom automatic deployment system in AWS with Terraform and Node.js linked to our bitbucket repo",
         "Maintained python backend",
-        "Tech stack: PHP, Angular, Javascript, Typescript, python, docker, terraform, serverless, aws, aws lambda"
+        "Tech stack: PHP, Angular, Javascript,NodeJs ,Typescript, python, docker, terraform, serverless, AWS, aws lambda"
       ]
     },
     {
