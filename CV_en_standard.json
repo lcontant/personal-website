@@ -31,11 +31,11 @@
       "startDate": "2020-12-01",
       "summary": "Rework and creation of major applications",
       "highlights": [
+        "Tech stack: Winform, C#, Angular, .NET 8 ,dotnet core,HTML,Javascript, Typescript ,python, Oracle PLSQL,Git ",
         "Lead a major rework of a WinForms application for onair live closed captioning",
         "Recognized as the go-to problem solver on difficult issues",
         "Developed and deployed many applications from scratch in C# .NET (backend) and Angular(frontend) ",
-        "Responsible for billing system for broadcast rights distribution",
-        "Tech stack: Winform, C#, Angular, .NET 8 ,dotnet core,HTML,Javascript, Typescript ,python, Oracle PLSQL,Git "
+        "Responsible for billing system for broadcast rights distribution"
       ]
     },
     {
@@ -44,23 +44,21 @@
       "startDate": "2019-08-01",
       "endDate": "2019-12-01",
       "highlights": [
+        "Tech stack: PHP, Angular, Javascript,NodeJs ,Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git",
         "Handled technical discussions with Sezzle to resolve issues with the integration of their payment and widget",
         "Created a top to bottom automatic deployment system in AWS with Terraform and Node.js linked to our bitbucket repo",
-        "Maintained python backend",
-        "Tech stack: PHP, Angular, Javascript,NodeJs ,Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git"
-      ]
-    },
-    {
+        "Maintained python backend"
+      ] }, {
       "name": "Radio-Canada (CBC)",
       "position": "Software developer (internship)",
       "startDate": "2017-01-01",
       "endDate": "2017-04-01",
       "summary": "Created a new application to interact securely with unsecured PTZ cameras and refactored major application for election coverage",
       "highlights": [
+        "Tech stack: Angular, Javascript, Typescript, C#, .NET Framework , dotnet core, python, Oracle PLSQL, HTML, Git",
         "Created a new application to interact securely with unsecured PTZ cameras",
         "Refactored major application for election coverage",
-        "Developed full stack applications in Angular and C# .NET",
-        "Tech stack: Angular, Javascript, Typescript, C#, .NET Framework , dotnet core, python, Oracle PLSQL, HTML, Git"
+        "Developed full stack applications in Angular and C# .NET"
       ]
     },
     {
@@ -70,11 +68,10 @@
       "endDate": "2016-08-01",
       "summary": "Took the lead on a major billing application and handled communication with non technical stakeholders",
       "highlights": [
+        "Tech stack: C# .NET, ASP MVC .NET, SQL Server, HTML, CSS, Javascript",
         "Developed new features and fixed bugs on client facing website in C# .NET and ASP MVC .NET",
-        "Direct internal client communication",
-        "Drafting of comprehensive documentation and processes for the transition from AMT to EXO",
-        "Main developer on the automatic billing system for train cards",
-        "Tech stack: C# .NET, ASP MVC .NET, SQL Server, HTML, CSS, Javascript"
+        "Drafted of comprehensive documentation and processes for the transition from AMT to EXO",
+        "Developped automatic billing system for train cards"
       ]
     }
   ],
