@@ -35,13 +35,15 @@ function renderWorkExperience() {
     let workExperienceHTML = '';
     for (let job of resumeData.work) {
         workExperienceHTML += `
-            <div class="job">
+            <div class="job timeline-item">
+                <div class="timeline-content">
                 <div class="job-title">${job.position} at ${job.name}</div>
                 <div class="job-dates">${job.startDate} - ${job.endDate || 'Present'}</div>
                 <div class="job-summary">${job.summary}</div>
                 <ul class="job-highlights">
                     ${job.highlights.map(highlight => `<li>${highlight}</li>`).join('')}
                 </ul>
+                </div>
             </div>
         `;
     }
@@ -53,10 +55,8 @@ function renderEducation() {
     for (let edu of resumeData.education) {
         educationHTML += `
             <div class="education">
-                <div class="education-institution">${edu.institution}</div>
-                <div class="education-area">${edu.area}</div>
-                <div class="education-studyType">${edu.studyType}</div>
-                <div class="education-endDate">${edu.endDate}</div>
+                <div class="institution">${edu.institution} - ${edu.area} ${edu.endDate}</div>
+                <div class="degree">${edu.studyType}</div>
             </div>
         `;
     }
