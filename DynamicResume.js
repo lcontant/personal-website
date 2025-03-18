@@ -41,7 +41,13 @@ function renderWorkExperience() {
                 <div class="job-dates">${job.startDate} - ${job.endDate || 'Present'}</div>
                 <div class="job-summary">${job.summary}</div>
                 <ul class="job-highlights">
-                    ${job.highlights.map(highlight => `<li>${highlight}</li>`).join('')}
+                    ${job.highlights.map(highlight => {
+                        if (highlight.toLowerCase().includes('tech stack')) {
+                            return `<li><b>${highlight}</b></li>`;
+                        } else {
+                            return `<li>${highlight}</li>`;
+                        }
+                    }).join('')}
                 </ul>
                 </div>
             </div>
@@ -54,7 +60,7 @@ function renderEducation() {
     let educationHTML = '';
     for (let edu of resumeData.education) {
         educationHTML += `
-            <div class="education">
+            <div class="education timeline-item">
                 <div class="institution">${edu.institution} - ${edu.area} ${edu.endDate}</div>
                 <div class="degree">${edu.studyType}</div>
             </div>
@@ -67,7 +73,7 @@ function renderProjects() {
     let projectsHTML = '';
     for (let project of resumeData.projects) {
         projectsHTML += `
-            <div class="project">
+            <div class="project timeline-item">
                 <div class="project-name">${project.name}</div>
                 <div class="project-description">${project.description}</div>
                 <ul class="project-highlights">
