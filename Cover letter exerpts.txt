@@ -1,0 +1,17 @@
+Billing system Radio-Canada CBC:
+During my time at radio-canada, I was in charge of deliverying a billing and payment system to handle 
+the payment and purchase of distribution rights for different broadcasts of media. Because of the complicated
+nature of distribution contracts, I had to implement a lot of complex and evolving business requirements into 
+the system as a lot of stakeholders joined the projects.
+
+Subscription system at doormonster:
+While making the doormonster platform from scratch, I implement a Subscription service from scratch for priviledged members with
+recurring billing using stripe.
+
+Building a lot of Angular applications from scratch with a c# backend:
+During my time at Radio-Canada, I built dozens of applications in Angular from scratch ranging from the complexity of simple dashboard to small
+social media platforms for journalists to share media they took on the field for different articles and the news that night. 
+
+Accesibility:
+I was trained in web accesibility by CBC/Radio-Canada to make sure colorblind, deaf and blind people would be able to use our internal 
+tools more easily
