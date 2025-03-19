@@ -1,6 +1,9 @@
 var resumeData = {};
 async function getResumeData() {
-    let currentLanguage = 'en';
+    let currentLanguage = 'fr';
+    if (document.location.href.toLowerCase().indexOf('en') !== -1) {
+        currentLanguage = 'en';
+    }
     let resumeDataFileName = `CV_${currentLanguage}_standard.json`;
     let response = await fetch(resumeDataFileName,  {
         headers: {
@@ -61,7 +64,7 @@ function renderEducation() {
     for (let edu of resumeData.education) {
         educationHTML += `
             <div class="education timeline-item">
-                <div class="institution">${edu.institution} - ${edu.area} ${edu.endDate}</div>
+                <div class="institution"> ${edu.endDate} - ${edu.institution} - ${edu.area} </div>
                 <div class="degree">${edu.studyType}</div>
             </div>
         `;
