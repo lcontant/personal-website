@@ -65,6 +65,13 @@ body {
     color: var(--job-title-color);
 }
 
+.education-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #36020f;
+}
+
 .project-name {
     font-size: 1.5em;
     font-weight: bold;
@@ -77,7 +84,7 @@ body {
     font-size: 1.2em;
     font-weight: bold;
     margin: 10px 0;
-    color: #2254db;
+    color: #D3D3D3;
 }
 
 .timeline {
@@ -101,6 +108,7 @@ body {
     margin: 20px 0;
     padding-left: 40px;
     position: relative;
+    page-break-inside: avoid;
 }
 
 .timeline-item::before {

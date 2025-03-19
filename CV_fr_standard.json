@@ -46,8 +46,7 @@
       "highlights": [
         "Tech stack: PHP, Angular, Javascript, NodeJs, Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git",
         "Géré des discussions techniques avec Sezzle pour résoudre les problèmes d'intégration de leur paiement et de leur widget",
-        "Créé un système de déploiement automatique de haut en bas dans AWS avec Terraform et Node.js lié à notre dépôt Bitbucket",
-        "Maintenu le backend python"
+        "Créé un système de déploiement automatique de haut en bas dans AWS avec Terraform et Node.js lié à notre dépôt Bitbucket"
       ]
     },
     {

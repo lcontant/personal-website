@@ -46,8 +46,7 @@
       "highlights": [
         "Tech stack: PHP, Angular, Javascript,NodeJs ,Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git",
         "Handled technical discussions with Sezzle to resolve issues with the integration of their payment and widget",
-        "Created a top to bottom automatic deployment system in AWS with Terraform and Node.js linked to our bitbucket repo",
-        "Maintained python backend"
+        "Created a top to bottom automatic deployment system in AWS with Terraform and Node.js linked to our bitbucket repo"
       ] }, {
       "name": "Radio-Canada (CBC)",
       "position": "Software developer (internship)",
