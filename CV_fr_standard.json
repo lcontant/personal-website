@@ -1,107 +1,124 @@
 {
-  "info": {
+  "basics": {
     "name": "Louis Contant",
-    "address": "Montréal, (Québec)",
+    "location": {
+      "address": "Montréal",
+      "city": "Montréal",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "summary": "Salut! Je suis Louis, un développeur logiciel qui aime vraiment résoudre des problèmes difficiles. Je suis également bon pour communiquer avec des personnes techniques et non techniques, ce qui, je pense, est un atout majeur dans ce domaine. Avec 5 ans d'expérience sur une variété de projets, j'espère être un excellent ajout à votre équipe!",
     "email": "louis@louiscontant.com",
-    "phone": "514 549-9771"
+    "phone": "514 549-9771",
+    "label": "Développeur logiciel"
   },
-  "portfolio": [
+  "profiles": [
     {
-      "name": "doormonster.tv",
-      "description": "Développement complet de doormonster.tv",
-      "link": "https://github.com/lcontant/doormonster",
-      "duration": "Depuis juillet 2018 (Maintenant retiré en raison du manque de fonds)",
-      "tasks": [
-        "Développement d'une plateforme d'abonnement complète avec Java Spring boot et Angular 2+",
-        "Système de déploiement avec Docker Compose",
-        "Modernisation de l'infrastructure en la déplaçant vers le cloud dans AWS et Digital Ocean"
-      ],
-      "techstack": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
-      "skills": ["FullStack", "Backend", "frontend"],
-      "logo": "doormonster_logo.png"
+      "network": "LinkedIn",
+      "username": "louis-contant",
+      "url": "https://www.linkedin.com/in/louis-contant-5698a9a7/"
     },
     {
-      "name": "Twitch Integrator",
-      "description": "plugin Twitch Integrator",
-      "link": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
-      "duration": "Depuis août 2017 à maintenant",
-      "tasks": [
-        "Développement d'un plugin qui facilite l'intégration des interactions de chat Twitch via des nœuds d'événements faciles à utiliser en C++"
-      ],
-      "techstack": ["c++", "unreal engine"],
-      "logo": "TwitchIntegrator.png"
+      "network": "GitHub",
+      "username": "lcontant",
+      "url": "https://github.com/lcontant"
     }
   ],
-  "experience": [
+  "work": [
     {
-      "company": "Radio-Canada",
-      "role": "Développeur logiciel",
-      "duration": "Décembre 2020 - Maintenant",
-      "tasks": [
-        "Développement de nouvelles fonctionnalités et correction de bogues sur de nombreux projets en C# .NET et Angular-CLI(2+)",
-        "Développement de prototypes de logiciels pour différentes diffusions",
-        "Développement d'API RESTful"
-      ],
-      "techstack": ["Angular", "Javascript", "Typescript", "C#", ".NET", "dotnet core", "python", "Oracle PLSQL", "HTML"],
-      "logo": "radio-canada.webp"
+      "name": "Radio-Canada",
+      "position": "Développeur logiciel senior",
+      "startDate": "2020-12-01",
+      "summary": "Refonte et création d'applications majeures",
+      "highlights": [
+        "Tech stack: Winform, C#, Angular, .NET 8, dotnet core, HTML, Javascript, Typescript, python, Oracle PLSQL, Git",
+        "Dirigé une refonte majeure d'une application WinForms pour le sous-titrage en direct à l'antenne",
+        "Reconnu comme le solveur de problèmes de référence pour les problèmes difficiles",
+        "Développé et déployé de nombreuses applications à partir de zéro en C# .NET (backend) et Angular (frontend)",
+        "Responsable du système de facturation pour la distribution des droits de diffusion"
+      ]
     },
     {
-      "company": "Bonlook",
-      "role": "Développeur logiciel",
-      "duration": "Août 2019 - Décembre 2019",
-      "tasks": [
-        "Maintenance du site Web PHP Laravel",
-        "Système de déploiement automatique de haut en bas dans AWS avec Terraform et Node.js",
-        "Développement d'API REST en Python",
-        "Automatisation du processus de déploiement de staging avec terraform"
-      ],
-      "techstack": ["PHP", "Angular", "Javascript", "Typescript", "python", "docker", "terraform", "serverless", "aws", "aws lambda"],
-      "logo": "bonlook.png"
+      "name": "Bonlook",
+      "position": "Développeur logiciel (stage)",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-01",
+      "highlights": [
+        "Tech stack: PHP, Angular, Javascript, NodeJs, Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git",
+        "Géré des discussions techniques avec Sezzle pour résoudre les problèmes d'intégration de leur paiement et de leur widget",
+        "Créé un système de déploiement automatique de haut en bas dans AWS avec Terraform et Node.js lié à notre dépôt Bitbucket",
+        "Maintenu le backend python"
+      ]
     },
     {
-      "company": "Radio-Canada (CBC)",
-      "role": "Développeur logiciel",
-      "duration": "Janvier 2017 - Avril 2017, Janvier 2018 - Septembre 2018",
-      "tasks": [
-        "Développement de nouvelles fonctionnalités et correction de bogues sur plusieurs projets en C# .NET et Angular-CLI(2+)",
-        "Développement de prototypes de logiciels pour différentes diffusions",
-        "Développement d'API RESTful en C#"
-      ],
-      "techstack": ["Angular", "Javascript", "Typescript", "C#", ".NET", "dotnet core", "python"],
-      "logo": "radio-canada.webp"
+      "name": "Radio-Canada (CBC)",
+      "position": "Développeur logiciel (stage)",
+      "startDate": "2017-01-01",
+      "endDate": "2017-04-01",
+      "summary": "Création d'une nouvelle application pour interagir en toute sécurité avec des caméras PTZ non sécurisées et refonte d'une application majeure pour la couverture électorale",
+      "highlights": [
+        "Tech stack: Angular, Javascript, Typescript, C#, .NET Framework, dotnet core, python, Oracle PLSQL, HTML, Git",
+        "Créé une nouvelle application pour interagir en toute sécurité avec des caméras PTZ non sécurisées",
+        "Refonte d'une application majeure pour la couverture électorale",
+        "Développé des applications full stack en Angular et C# .NET"
+      ]
     },
     {
-      "company": "EXO",
-      "role": "Développeur logiciel",
-      "duration": "Février 2016 – Août 2016",
-      "tasks": [
-        "Développement de nouvelles fonctionnalités et correction de bogues sur le site Web client en C# .NET et ASP MVC .NET",
-        "Communication directe avec les clients internes",
-        "Rédaction de processus pour la transition de l'AMT à EXO",
-        "Assurance qualité des mises à jour du système de facturation avant le déploiement"
-      ],
-      "techstack": ["Javascript", "C#", ".NET"],
-      "logo": "exo.png"
+      "name": "EXO",
+      "position": "Développeur logiciel",
+      "startDate": "2016-02-01",
+      "endDate": "2016-08-01",
+      "summary": "Pris en charge une application de facturation majeure et géré la communication avec des parties prenantes non techniques",
+      "highlights": [
+        "Tech stack: C# .NET, ASP MVC .NET, SQL Server, HTML, CSS, Javascript",
+        "Développé de nouvelles fonctionnalités et corrigé des bugs sur le site web client en C# .NET et ASP MVC .NET",
+        "Rédaction de documentation et de processus complets pour la transition de l'AMT à EXO",
+        "Développé un système de facturation automatique pour les cartes de train"
+      ]
     }
   ],
   "education": [
     {
       "institution": "ÉTS (École de technologie supérieure)",
-      "degree": "Baccalauréat en génie logiciel",
-      "year": 2020,
-      "logo": "ETS.png"
+      "area": "Génie logiciel",
+      "studyType": "Baccalauréat",
+      "endDate": "2020"
     },
     {
       "institution": "Collège Bois-de-Boulogne",
-      "degree": "(DEC) technique informatique : profil de gestion",
-      "year": 2016,
-      "logo": "BdeB.jpg"
+      "area": "Technique informatique : profil de gestion",
+      "studyType": "DEC",
+      "endDate": "2016"
     },
     {
       "institution": "Collège Mont-Saint-Louis",
-      "degree": "Diplôme d'études secondaires",
-      "year": 2013,
-      "logo": "msl.png"
+      "area": "École secondaire",
+      "studyType": "Diplôme d'études secondaires",
+      "endDate": "2013"
+    }
+  ],
+  "projects": [
+    {
+      "name": "doormonster.tv",
+      "description": "Développement complet de doormonster.tv",
+      "highlights": [
+        "Développement d'une plateforme d'abonnement complète avec Java Spring boot et Angular 2+",
+        "Système de déploiement avec Docker Compose"
+      ],
+      "keywords": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
+      "url": "https://github.com/lcontant/doormonster",
+      "startDate": "2018-07",
+      "endDate": "2018-07"
+    },
+    {
+      "name": "Twitch Integrator",
+      "description": "plugin Twitch Integrator",
+      "highlights": [
+        "Développement d'un plugin qui facilite l'intégration des interactions de chat Twitch via des nœuds d'événements faciles à utiliser réalisés en C++"
+      ],
+      "keywords": ["c++", "unreal engine"],
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
+      "startDate": "2017-08"
     }
   ]
 }
