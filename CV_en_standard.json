@@ -99,19 +99,20 @@
       "name": "doormonster.tv",
       "description": "Full development of doormonster.tv",
       "highlights": [
-        "Developing a full subscription platform with Java Spring boot and Angular 2+",
-        "Deployment system with Docker Compose"
+        "Developed a full subscription platform with Java Spring boot and Angular 2+",
+        "Tech stack: Docket-Composer, AWS, Docker, MySQL, HTML, CSS, Javascript, Angular, Java"
       ],
       "keywords": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
       "url": "https://github.com/lcontant/doormonster",
       "startDate": "2018-07",
-      "endDate": "2018-07"
+      "endDate": "2020-07"
     },
     {
       "name": "Twitch Integrator",
       "description": "plugin Twitch Integrator",
       "highlights": [
-        "Developing a plugin that facilitates the integration of twitch chat interactions through easy to use event nodes made in C++"
+        "Developed a plugin that facilitates the integration of twitch chat interactions through easy to use event nodes made in C++",
+        "Tech stack: C++, Unreal Engine 4, Twitch API, REST API, JSON"
       ],
       "keywords": ["c++", "unreal engine"],
       "url": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
