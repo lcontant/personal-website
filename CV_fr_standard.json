@@ -43,6 +43,7 @@
       "position": "Développeur logiciel (stage)",
       "startDate": "2019-08-01",
       "endDate": "2019-12-01",
+      "summary": "Gestion de CI/CD et nouvelle fonctionnalité de caisse",
       "highlights": [
         "Tech stack: PHP, Angular, Javascript, NodeJs, Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git",
         "Géré des discussions techniques avec Sezzle pour résoudre les problèmes d'intégration de leur paiement et de leur widget",
