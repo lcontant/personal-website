@@ -33,7 +33,7 @@
       "highlights": [
         "Tech stack: Winform, C#, Angular, .NET 8 ,dotnet core,HTML,Javascript, Typescript ,python, Oracle PLSQL,Git ",
         "Lead a major rework of a WinForms application for onair live closed captioning",
-        "Saved $100,000+ year over year through effective communication with non-technical clients and the implementation of simplified solutions",
+        "Saved $100,000+ year over year through effective communication with non-technical clients and the implementation of an efficient connection handling system",
         "Developed and deployed many applications from scratch in C# .NET (backend) and Angular(frontend) ",
         "Responsible for billing system for broadcast rights distribution"
       ]
@@ -43,6 +43,7 @@
       "position": "Software developer (internship)",
       "startDate": "2019-08-01",
       "endDate": "2019-12-01",
+      "summary": "CI/CD Dev and checkout functionnality",
       "highlights": [
         "Tech stack: PHP, Angular, Javascript,NodeJs ,Typescript, python, docker, terraform, serverless, AWS, aws lambda, Git",
         "Handled technical discussions with Sezzle to resolve issues with the integration of their payment and widget",
@@ -120,3 +121,4 @@
     }
   ]
 }
+

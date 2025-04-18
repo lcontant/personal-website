@@ -33,7 +33,7 @@
       "highlights": [
         "Tech stack: Winform, C#, Angular, .NET 8, dotnet core, HTML, Javascript, Typescript, python, Oracle PLSQL, Git",
         "Pris en charge une refonte majeure d'une application WinForms pour le sous-titrage en direct à l'antenne",
-        "Amené des économies de 100 000 $ par année grâce à une communication efficace avec des clients non techniques et à la mise en œuvre de solutions simplifiées",
+        "Amené des économies de 100 000 $ par année grâce à une communication efficace avec des clients non techniques et à la mise en œuvre d'un système de gestion de connexions simplifié",
         "Développé et déployé de nombreuses applications à partir de zéro en C# .NET (backend) et Angular (frontend)",
         "Responsable du système de facturation pour la distribution des droits de diffusion"
       ]
@@ -103,8 +103,8 @@
       "name": "doormonster.tv",
       "description": "Développement complet de doormonster.tv",
       "highlights": [
-        "Développement d'une plateforme d'abonnement complète avec Java Spring boot et Angular 2+",
-        "Système de déploiement avec Docker Compose"
+        "Développé une plateforme d'abonnement complète avec Java Spring boot et Angular 2+",
+        "Mis en place un système de déploiement avec Docker Compose"
       ],
       "keywords": ["Angular", "Javascript", "Typescript", "Java", "Springboot", "Docker", "Docker-Compose", "MySql", "HTML"],
       "url": "https://github.com/lcontant/doormonster",
@@ -115,7 +115,7 @@
       "name": "Twitch Integrator",
       "description": "plugin Twitch Integrator",
       "highlights": [
-        "Développement d'un plugin qui facilite l'intégration des interactions de chat Twitch via des nœuds d'événements faciles à utiliser réalisés en C++"
+        "Développé un plugin qui facilite l'intégration des interactions de chat Twitch via des nœuds d'événements faciles à utiliser réalisés en C++"
       ],
       "keywords": ["c++", "unreal engine"],
       "url": "https://www.unrealengine.com/marketplace/en-US/product/twitch-integrator",
